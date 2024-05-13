@@ -4,7 +4,7 @@ import { Button } from "../components";
 const Hero = () => { 
   return (
     <section id="home" className="flex justify-center min-h-screen">
-      <div className="flex flex-col justify-start items-start padding-x padding-y">
+      <div className="flex flex-col justify-center items-start padding-x padding-y">
         <h1 className="font-montserrat text-[72px] max-sm:text-[52px] leading-normal">
           Hello
         </h1>
