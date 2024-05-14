@@ -13,7 +13,7 @@ const Nav = () => {
         <ul className="flex justify-center items-center gap-16 max-lg:hidden">
           {navLinks.map((item) => (
             <li key={item.label}>
-              <a href={item.href} className="text-lg text-slate-gray">
+              <a href={item.href} className="text-lg text-slate-gray hover:text-slate-800">
                 {item.label}
               </a>
             </li>

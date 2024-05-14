@@ -18,15 +18,15 @@ export const navLinks = [
 export const contactLists = [
   {
     name: "Adress _",
-    value: "23 S 80 Road, Benedict,ne, 68316 United States",
+    value: "Bahir Dar, Ethiopia",
   },
   {
     name: "Phone _",
-    value: "+01 123 456 789",
+    value: "+251921650642",
   },
   {
     name: "Email _",
-    value: "abc.xyz@gmail.com",
+    value: "Kalebo2023@gmail.com",
   },
   {
     name: "Website _",
