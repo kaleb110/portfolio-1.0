@@ -21,10 +21,6 @@ export const contactLists = [
     value: "Bahir Dar, Ethiopia",
   },
   {
-    name: "Phone _",
-    value: "+251921650642",
-  },
-  {
     name: "Email _",
     value: "Kalebo2023@gmail.com",
   },
