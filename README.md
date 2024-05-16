@@ -1,6 +1,6 @@
 # React Portfolio
 
-### [Live Site](https://kaleo-portfolio.netlify.app/)
+### [Live Site](https://kaleb110.github.io/portfolio-react/)
 
 [![Portfolio Website](https://i.postimg.cc/KjLtsvjK/Screenshot-2024-05-14-212114.png)](https://postimg.cc/GTLB4Rkr)
 
