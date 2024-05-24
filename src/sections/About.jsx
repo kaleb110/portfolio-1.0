@@ -26,15 +26,9 @@ const About = () => {
             exercitation ullamco laboris nisi ut aliquip ex ea commodo
             consequat.
           </p>
-
-          <Button
-            label="Download Cv"
-            backgroungColor="bg-white"
-            textColor="text-black"
-            borderColor="border-gray-400"
-            textSize="text-md"
-            hover="hover:bg-slate-gray hover:text-white"
-          />
+          <div className="mt-6">
+            <Button label="Download Cv" />
+          </div>
         </div>
       </div>
     </section>

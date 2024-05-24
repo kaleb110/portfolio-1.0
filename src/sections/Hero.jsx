@@ -14,14 +14,9 @@ const Hero = () => {
         <p className="font-semibold leading-5 text-slate-gray">
           FRONT-END WEB DEVELOPER
         </p>
-        <div>
+        <div className="mt-6">
           <Button
             label="Get Info"
-            backgroungColor="bg-white"
-            textColor="text-black"
-            borderColor="border-gray-400"
-            textSize="text-md"
-            hover="hover:bg-slate-gray hover:text-white"
           />
         </div>
       </div>
